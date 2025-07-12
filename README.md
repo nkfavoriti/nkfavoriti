@@ -3,7 +3,7 @@
 <hr>
 
 ## Welcome to My Portfolio
-Hi, I'm Nick Favoriti, a recent grad with a B.S. in Computer Science and Arts (Minor in Business) from UT Austin, currently pursuing my Master’s in Business Analytics at UT Austin. I’m passionate about machine learning, AI engineering, and software development, with experience in building RAG-based chatbots, predictive models, and full-stack applications.
+Hi, I'm Nicolas Favoriti, a recent grad with a B.S.A in Computer Science and Arts (Minor in Business) from UT Austin, currently pursuing my Master’s in Business Analytics at UT Austin. I’m passionate about machine learning, AI engineering, and software development, with experience in building RAG-based chatbots, predictive models, and full-stack applications.
 
 ### About Me
 - AI Engineering Intern at Aquinas Companies – Developed a RAG-based chatbot for internal data retrieval and streamlined document embedding.
@@ -102,7 +102,9 @@ A selection of academic and professional projects demonstrating problem-solving 
     </td>
     <td>
      <ul>
-        <li>[Add any certifications if available]</li>
+        <li>Python Specialist (Texas Global | The University of Texas at Austin, Issued Aug 2024)</li>
+        <li>Texas Global Coding for Data Program Certificate (Texas Global | The University of Texas at Austin, Issued Aug 2024)</li>
+        <li>SQL Specialist (Texas Global | The University of Texas at Austin, Issued Jul 2024)</li>
       </ul>
     </td>
   </tr>
