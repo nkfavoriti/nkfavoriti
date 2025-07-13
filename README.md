@@ -5,11 +5,6 @@
 ## Welcome to My Portfolio
 Hi, I'm Nicolas Favoriti, a recent grad with a B.S.A in Computer Science and Arts (Minor in Business) from UT Austin, currently pursuing my Master’s in Business Analytics at UT Austin. I’m passionate about machine learning, AI engineering, and software development, with experience in building RAG-based chatbots, predictive models, and full-stack applications.
 
-### About Me
-- AI Engineering Intern at Aquinas Companies – Developed a RAG-based chatbot for internal data retrieval and streamlined document embedding.
-- Software Engineering Projects – Led development of scalable databases and platforms using React, Python, and AWS.
-- Leadership & Community – Founding Member and Social Chair of UT Cystic Fibrosis Booster Club, raising over $10,000 through fundraisers.
-
 [**LinkedIn**](https://www.linkedin.com/in/nickfavoriti) 
 ---
 <p align="center">
