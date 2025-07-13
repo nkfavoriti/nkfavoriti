@@ -24,20 +24,6 @@ Hi, I'm Nicolas Favoriti, a recent grad with a B.S.A in Computer Science and Art
   </a>
 </p>
 
-
-## Education
-### The University of Texas at Austin, McCombs School of Business
-- Master of Science in Business Analytics (May 2026)
-- Relevant Coursework: Intro to Machine Learning, Advanced ML, Analytics for Unstructured Data, Optimization I & II, Unsupervised Learning, Financial Technology, Analytic Finance and ML, Data Science Programming
-
-### The University of Texas at Austin, College of Natural Sciences
-- Bachelor of Science and Arts in Computer Science (May 2025)
-- Minor: Business | Overall GPA: 3.58
-
-[Back to Top](#top)
-
----
-
 <a name="projects"></a>
 ## Projects
 A selection of academic and professional projects demonstrating problem-solving through AI, machine learning, and development.
