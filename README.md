@@ -21,9 +21,7 @@ A selection of academic and professional projects demonstrating problem-solving 
 - **Solution:** Developed a full-stack website with a team of 4, featuring 200+ categories, 50+ events, and 300+ entries, including a relational database and RESTful API.
 - **Tools:** AWS, Python, React, SQL
 
-### ShowMate
--
--
--
+### TET Weather Prediction Project
+- Work in Progress
 
 [Back to Top](#top)
