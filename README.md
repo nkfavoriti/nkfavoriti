@@ -19,7 +19,7 @@ A selection of academic and professional projects demonstrating problem-solving 
 ### InclusiAbility
 - **Problem:** Lack of accessible resources for individuals with disabilities.
 - **Solution:** Developed a full-stack website with a team of 4, featuring 200+ categories, 50+ events, and 300+ entries, including a relational database and RESTful API.
-- **Tools:** AWS, Python, React, SQL
+- **Tools:** AWS, Flask, Python, React, PostgreSQL
 
 ### TET Weather Prediction Project
 - Work in Progress
